@@ -7,5 +7,6 @@ Plan:
   *Check all links to see if they were crawled
   *If not, crawl and add links to index
   *Search for a term in the index, return links containing term 
-  Get user input - i.e. URL and search term
-  If have time (later iteration): Ruby on Rails
+  Simple interface: get user input through console - i.e. URL and search term
+  Loosen coupling
+  Rails web app (interface)
