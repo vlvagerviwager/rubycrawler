@@ -1,0 +1,11 @@
+Plan:
+
+* = done
+
+  *Return first link in a page (a href tag)
+  *Return all links in a page, add to index (txt file > csv > SQLite database / string)
+  *Check all links to see if they were crawled
+  *If not, crawl and add links to index
+  *Search for a term in the index, return links containing term 
+  Get user input - i.e. URL and search term
+  If have time (later iteration): Ruby on Rails
