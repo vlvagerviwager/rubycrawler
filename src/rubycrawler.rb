@@ -63,7 +63,7 @@ end
 # Returns a set of scraped links.  
 def populate_index(scraped)
   # cleanse the collection of scraped links - only keep links beginning with "http"
-  filename = "..\index.csv"
+  filename = "..\\res\\index.csv"
   links = Set.new
   
   puts "Populating index: " + filename
